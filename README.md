@@ -1,5 +1,7 @@
 # HateSpeechDetection
+
 Discussion Regards
+
 1.Basic Python python packages like pandas,numpy,matplotlib,warnings,sci-kit learn.
 2.Data Cleaning
 3.Bar Chart
